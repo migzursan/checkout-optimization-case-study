@@ -2,8 +2,6 @@
   <img src="checkout-banner.png" alt="Checkout Optimization Case Study" width="800"/>
 </p>
 
-<h1 align="center">Checkout Optimization — Fraud Detection & Payment Expansion</h1>
-
 <p align="center">
   <strong>How we built a fraud detection engine at 96% precision and expanded payment methods to lift checkout conversion by 6%.</strong>
 </p>

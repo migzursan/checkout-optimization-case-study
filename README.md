@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/checkout-banner.png" alt="Checkout Optimization Case Study" width="800"/>
+  <img src="checkout-banner.png" alt="Checkout Optimization Case Study" width="800"/>
 </p>
 
 <h1 align="center">Checkout Optimization — Fraud Detection & Payment Expansion</h1>
